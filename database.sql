@@ -1,0 +1,1 @@
+SELECT * FROM wxyzyqcr_project.n_admin;
